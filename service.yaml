@@ -9,4 +9,4 @@ spec:
   ports:
     - port: 3000         # Service port
       targetPort: 3000   # Container port
-      nodePort: 30007    # Node port (external)
+      nodePort: 30008    # Node port (external)
